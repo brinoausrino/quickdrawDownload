@@ -1,0 +1,66 @@
+absl-py==1.4.0
+aiohttp==3.8.4
+aiosignal==1.3.1
+async-timeout==4.0.2
+brotlipy==0.7.0
+cachetools==5.3.1
+certifi==2020.6.20
+cffi @ file:///work/ci_py311/cffi_1676822533496/work
+charset-normalizer==3.1.0
+cmake==3.26.3
+cryptography @ file:///work/ci_py311_2/cryptography_1679335572456/work
+filelock==3.12.0
+frozenlist==1.3.3
+fsspec==2023.5.0
+google-auth==2.19.1
+google-auth-oauthlib==1.0.0
+grpcio==1.54.2
+huggingface-hub==0.15.1
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+Jinja2==3.1.2
+lit==16.0.5.post0
+Markdown==3.4.3
+MarkupSafe==2.1.3
+mpmath==1.3.0
+multidict==6.0.4
+networkx==3.1
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-cupti-cu11==11.7.101
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.2.10.91
+nvidia-cusolver-cu11==11.4.0.1
+nvidia-cusparse-cu11==11.7.4.91
+nvidia-nccl-cu11==2.14.3
+nvidia-nvtx-cu11==11.7.91
+oauthlib==3.2.2
+openai==0.27.7
+Pillow==9.5.0
+protobuf==4.23.2
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyDeprecate==0.3.2
+pyOpenSSL @ file:///croot/pyopenssl_1678965284384/work
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+pytorch-lightning==1.7.7
+PyYAML==6.0
+quickdraw==1.0.0
+regex==2023.6.3
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+requests-oauthlib==1.3.1
+rsa==4.9
+sympy==1.12
+tensorboard==2.13.0
+tensorboard-data-server==0.7.0
+tokenizers==0.13.3
+torch==2.0.1
+torchmetrics==0.11.4
+tqdm==4.65.0
+transformers==4.23.1
+triton==2.0.0
+urllib3 @ file:///opt/conda/conda-bld/urllib3_1643638302206/work
+Werkzeug==2.3.4
+yarl==1.9.2
